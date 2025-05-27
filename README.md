@@ -14,7 +14,7 @@
 
 ## <div align="center">Quick Start Examples</div>
 
-A python example [Python Code](sequence.ipynb) is prepared to implement the list sweeping using Keysight LCR E4980L. The measured data save as .pkl and both Bode plot and electric components plot are presented.
+A python example [Python Code](sequence.ipynb) is prepared to implement the list sweeping using Keysight LCR E4980AL. The measured data save as .pkl and both Bode plot and electric components plot are presented.
 
 
 
