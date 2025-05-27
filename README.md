@@ -5,7 +5,7 @@
 
 <p>
 <div align="center">
-   <img width="100%"/ src="samples\md info\bode plot.png"></a>
+   <img width="100%"/ src="samples\md info\Bode plot.png"></a>
    <img width="100%"/ src="samples\md info\Component plot.png"></a>
 
 </div>
